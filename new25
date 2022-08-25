@@ -1,4 +1,8 @@
 this is for practise session of github
 hi
 hello
+<<<<<<< HEAD
 bye change to know how it works
+=======
+bye
+>>>>>>> d5c40e3965b628dcd1d4423373f7a0a5fcc4f2f0
